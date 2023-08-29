@@ -1,1 +1,1 @@
-My first readme
+This is where git projects are
